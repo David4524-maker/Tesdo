@@ -41,3 +41,17 @@ Tesdo/
     ├── media/         ← Copias de videos subidos
     └── thumbs/        ← Copias de miniaturas subidas
 ```
+
+## Otras alternativas
+
+[YouTube](https://www.youtube.com)
+
+[TikTok](https://www.tiktok.com)
+
+[Facebook](https://www.facebook.com)
+
+[Instagram](https://www.instagram.com/)
+
+[X](https://x.com/) (Antes Twitter)
+
+[Reddit](https://www.reddit.com/)
